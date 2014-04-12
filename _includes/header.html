@@ -1,0 +1,34 @@
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand" href="/">OK Lab Chemnitz</a>
+		</div>
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav">
+				{% for link in site.data.nav %}
+				{% assign current = nil %}
+				{% if page.url contains link.url %}
+				{% assign current = 'active' %}
+				{% endif %}
+				<li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+					<a href="{{ link.url }}">{{ link.title }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="jumbotron">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5"><img src="/images/CFG_Logo.svg" alt="Code vor Chemnitz" title="Code vor Chemnitz" class="img-responsive" width="100%"/></div>
+			<div class="col-md-7"><p>Wir wollen uns treffen, um gemeinsam an Projekten zu arbeiten, die die öffentlichen Daten der Stadt Chemnitz für alle zugänglicher aufbereitet und mit einem Mehrwert versieht.</p></div>
+		</div>
+	</div>
+</div>

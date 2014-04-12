@@ -1,0 +1,29 @@
+<div class="row">
+	<div class="col-md-4">
+		<h3>Neuigkeiten</h3>
+		<p>
+			<ul class="list-unstyled">
+				{% for post in site.categories.news %}
+					<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% endfor %}
+			</ul>
+		</p>
+	</div>
+	<div class="col-md-4">
+		<h3>Location</h3>
+		<p><address>
+		{{site.data.location.name}}<br/>
+		{{site.data.location.str}}<br/>
+		{{site.data.location.city}}<br/>
+		{{site.data.location.add}}
+		</address></p>
+	</div>
+	<div class="col-md-4">
+		<h3>Nächstes Treffen</h3>
+		<p>
+			Termin: <strong>{{site.data.treffen.day}}, {{site.data.treffen.day-nr}}. {{site.data.treffen.month}}</strong>
+			<br/>
+			Uhrzeit: <strong>{{site.data.treffen.time}}</strong>
+		</p>
+	</div>
+</div>

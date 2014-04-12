@@ -1,0 +1,12 @@
+body {padding-top: 35px;}
+
+.members{line-height:26px;font-size:16px}
+.members .member{margin-bottom:26px;min-width:33%;display:block;float:left}
+.members .member-avatar{margin-right:20px;width:80px;height:80px}
+
+.project-image{margin-bottom:28px}
+.project-links,.post-links{margin-bottom:26px}
+.project-collaborators:before{background-image:url("/image/collaborators.svg");height:23px;width:21px}
+.project-collaborators-list{margin-top:18px}
+
+.project_wrapper{font-size:16px;line-height:26px;text-align:left;padding:10px;margin:0px 15px 0 15px;background-color:#EDEDED}
