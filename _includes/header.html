@@ -10,7 +10,7 @@
 		<a class="navbar-brand" href="/">OK Lab Chemnitz</a>
 		</div>
 		<div class="collapse navbar-collapse">
-			<ul class="nav navbar-nav">
+			<ul class="nav navbar-default navbar-nav">
 				{% for link in site.data.nav %}
 				{% assign current = nil %}
 				{% if page.url contains link.url %}
@@ -19,6 +19,15 @@
 				<li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
 					<a href="{{ link.url }}">{{ link.title }}</a>
 				</li>
+				{% endfor %}
+			</ul>
+			<ul class="nav navbar-nav pull-right">
+				{% for link in site.data.social %}
+				{% assign current = nil %}
+				{% if page.url contains link.url %}
+				{% assign current = 'active' %}
+				{% endif %}
+				<li><a href="{{ link.url }}">{{ link.title }}</a></li>
 				{% endfor %}
 			</ul>
 		</div>
