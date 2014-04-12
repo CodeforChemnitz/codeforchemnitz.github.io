@@ -5,13 +5,20 @@ body {
 	font-size:12pt;
 }
 
+.nischel {
+	background:url("/images/nischel.jpg") bottom center no-repeat;
+	background-size: 100% auto;
+	height:350px;
+	padding-top:30px;
+}
+
 .highlight-red {
 	color:white;
 	font-family: 'Source Code Pro';
 	background-color:#FF5449;
 	font-size:12pt;
 	padding:1px 10px 1px 10px;
-	display:inline;
+	display:block;
 }
 .members {
 	line-height:26px;
