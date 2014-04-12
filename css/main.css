@@ -5,12 +5,23 @@ body {
 	font-size:12pt;
 }
 
-.nischel {
-	background:url("/images/nischel.jpg") bottom center no-repeat;
-	background-size: 100% auto;
-	height:350px;
-	padding-top:30px;
-	position: relative;
+@media screen and (min-width: 1200px) {
+	.nischel {
+		background:url("/images/nischel.jpg") center center no-repeat;
+		height:350px;
+		background-size:100% auto;
+		padding-top:30px;
+		position: relative;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+	.nischel {
+		background:url("/images/nischel.jpg") center center no-repeat;
+		height:350px;
+		padding-top:30px;
+		position: relative;
+	}
 }
 
 .nischel-quelle {
