@@ -1,11 +1,49 @@
-body {padding-top: 35px;}
 
-.members{line-height:26px;font-size:16px}
-.members .member{margin-bottom:26px;min-width:33%;display:block;float:left}
-.members .member-avatar{margin-right:20px;width:80px;height:80px}
+body {
+	padding-top: 35px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size:12pt;
+}
 
-.project-image{margin-bottom:28px}
-.project-links,.post-links{margin-bottom:26px}
-.project-collaborators-list{margin-top:18px}
+.highlight-red {
+	color:white;
+	font-family: 'Source Code Pro';
+	background-color:#FF5449;
+	font-size:12pt;
+	padding:1px 10px 1px 10px;
+	display:inline;
+}
+.members {
+	line-height:26px;
+	font-size:16px;
+}
+.members .member {
+	margin-bottom:26px;
+	min-width:33%;
+	display:block;
+	float:left;
+}
+.members .member-avatar {
+	margin-right:20px;
+	width:80px;
+	height:80px;
+}
 
-.project_wrapper{font-size:16px;line-height:26px;text-align:left;padding:10px;margin:0px 15px 0 15px;background-color:#EDEDED}
+.project-image {
+	margin-bottom:28px;
+}
+.project-links {
+	margin-bottom:26px;
+}
+.project-collaborators-list {
+	margin-top:18px;
+}
+
+.project_wrapper {
+	font-size:16px;
+	line-height:26px;
+	text-align:left;
+	padding:10px;
+	margin:0px 15px 0 15px;
+	background-color:#EDEDED;
+}
