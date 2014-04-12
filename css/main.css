@@ -10,6 +10,15 @@ body {
 	background-size: 100% auto;
 	height:350px;
 	padding-top:30px;
+	position: relative;
+}
+
+.nischel-quelle {
+	bottom:10px;
+	left:10px;
+	display:inline;
+	background-color:white;
+	position:absolute;
 }
 
 .highlight-red {
