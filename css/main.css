@@ -5,23 +5,12 @@ body {
 	font-size:12pt;
 }
 
-@media screen and (min-width: 1200px) {
-	.nischel {
-		background:url("/images/nischel.jpg") center center no-repeat;
-		height:350px;
-		background-size:100% auto;
-		padding-top:30px;
-		position: relative;
-	}
-}
-
-@media screen and (max-width: 1200px) {
-	.nischel {
-		background:url("/images/nischel.jpg") center center no-repeat;
-		height:350px;
-		padding-top:30px;
-		position: relative;
-	}
+.nischel {
+	background:url("/images/nischel.jpg") center center no-repeat;
+	background-size:cover;
+	height:350px;
+	padding-top:30px;
+	position: relative;
 }
 
 .nischel-quelle {
@@ -40,20 +29,22 @@ body {
 	padding:1px 10px 1px 10px;
 	display:block;
 }
-.members {
-	line-height:26px;
+
+.member_wrapper {
 	font-size:16px;
+	line-height:26px;
+	text-align:left;
+	padding:10px;
+	background-color:#EDEDED;
 }
-.members .member {
-	margin-bottom:26px;
-	min-width:33%;
-	display:block;
-	float:left;
-}
-.members .member-avatar {
+
+.member-avatar {
 	margin-right:20px;
 	width:80px;
 	height:80px;
+}
+
+.member-info {
 }
 
 .project-image {
@@ -71,6 +62,11 @@ body {
 	line-height:26px;
 	text-align:left;
 	padding:10px;
-	margin:0px 15px 0 15px;
 	background-color:#EDEDED;
+}
+
+@media screen and (max-width: 1000px) {
+	.member_wrapper, .project_wrapper {
+		margin-bottom:10px;
+	}
 }

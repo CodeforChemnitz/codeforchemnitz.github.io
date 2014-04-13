@@ -1,0 +1,14 @@
+
+<div class="member_wrapper">
+	{% if member.username-github %}
+		{% capture image_url %}/images/avatar/{{ member.username-github }}.jpg{% endcapture %}
+	{% else %}
+		{% capture image_url %}/images/avatar/contributor_placeholder.svg{% endcapture %}
+	{% endif %}
+	<img src="{{ image_url }}" alt="{{ member.name }}" class="img-rounded member-avatar pull-left">
+	<div class="member-info">
+		<strong>{{ member.name }}</strong><br/>
+		{% if member.username-github %}<a href="https://github.com/{{ member.username-github }}">github:{{ member.username-github }}</a><br> {% endif %}
+		{% if member.username-twitter %}<a href="https://www.twitter.com/{{ member.username-twitter }}">@{{ member.username-twitter }}</a>{% endif %}
+	</div>
+</div>
