@@ -4,19 +4,25 @@ title: Unsere Mitglieder
 ---
 
 <div class="row">
-	
-	<div class="col-lg-12">
-		<div class="page-header"><h1>{{page.title}}</h1></div>
+
+	<div class="container">
+	<div class="page-header"><h1>{{page.title}}</h1></div>
 		{% assign member_count = 0 %}
 		{% for member in site.data.members %}
 		{% assign member_count=member_count | plus:1 %}
 		{% endfor %}
+
 		{% assign loop_index = 0 %}
 		{% unless member_count == 0 %}
 		<div class="row">
 		{%endunless%}
-		{% assign project_count=project_count | minus:1 %}
+
+
+
+		{% assign member_count=member_count | minus:1 %}
+
 		{% for member in site.data.members %}
+
 			<div class="col-md-4" >
 				{% include member.html %}
 			</div>
@@ -24,7 +30,7 @@ title: Unsere Mitglieder
 			{% comment %} Every third member close row and open new {% endcomment %}
 			{% if 1 == loop_index | modulo:3 %}
 				{% comment %} Unless it is the last iteration {% endcomment %}
-				{% if loop_index < project_count %}
+				{% if loop_index < member_count %}
 					</div>
 					<div class="row" >
 				{% endif %}
@@ -34,5 +40,6 @@ title: Unsere Mitglieder
 			{% endif %}
 			{% assign loop_index = loop_index | plus:1 %}
 		{% endfor %}
+		
 	</div>
 </div>
