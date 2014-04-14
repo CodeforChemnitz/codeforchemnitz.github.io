@@ -10,7 +10,7 @@ Letzte Woche Donnerstag war unser erstes Treffen in den Räumichkeiten des Chaos
 
 Im Anschluss daran haben wir mit dem Basteln einer Webpräsenz angefangen, welche mittlerweile unter [codeforchemnitz.de][] erreichbar ist.
 
-Ebenfalls haben wir uns mit den zur Verfügung stehen Logos und Plakaten auseinandergesetzt und planen ein [Plakat][] mit allgemeinen Informationen über das Projekt und speziellen Informationen zu unserem OK Lab zu füllen. Dies wollen wir dann z.B. in der Uni aushängen und wir freuen uns, falls dies auch anderen OK Labs hilft Informationen der Öffentlichkeit zugänglich zu machen.
+Ebenfalls haben wir uns mit den zur Verfügung stehenden Logos und Plakaten auseinandergesetzt und planen ein [Plakat][] mit allgemeinen Informationen über das Projekt und speziellen Informationen zu unserem OK Lab zu füllen. Dies wollen wir dann z.B. in der Uni aushängen und wir freuen uns, falls dies auch anderen OK Labs hilft Informationen der Öffentlichkeit zugänglich zu machen.
 
 Am Dienstag war ich im OK Lab Dresden, bei denen bereits ein Journalist einer regionalen Zeitung anwesend war und ein Interview mit den Beteiligten führte. ([kompletter Beitrag][])  Es gab an dem Abend noch viele angenehme Diskussionen, wie man das Konzept von Open Data der Politik zugänglich macht.
 
