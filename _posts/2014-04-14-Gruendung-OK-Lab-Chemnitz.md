@@ -16,8 +16,13 @@ Am Dienstag war ich im OK Lab Dresden, bei denen bereits ein Journalist einer re
 
 Soweit erstmal aus Chemnitz!
 
+So sah es am Donnerstagabend aus:
+
+![Während der Vorstellung von Code for Germany][Bild]
+
 [Präsentation]: http://morrisjobke.de/stuff/ok-lab-chemnitz/
 [Chemnitzer Baustellenkarte]: http://morrisjobke.de/stuff/baustellen-chemnitz/
 [codeforchemnitz.de]: http://codeforchemnitz.de/
 [Plakat]: https://github.com/CodeforChemnitz/oeffentlichkeitsarbeit
 [kompletter Beitrag]: http://computer-oiger.de/2014/04/11/dresdner-hacker-wollen-aemterdaten-befreien/28142
+[Bild]: /images/news/2014-04-14-First-meetup.jpg
