@@ -11,18 +11,18 @@
     </li>
     {% endfor %}
   </ul>
-  
+
   {% if post.colaborators %}
-      <span>Mitglieder</span>
+      <span>Mitwirkende:</span>
   {% endif %}
 
   <ul class="list-unstyled project-collaborators-list" >
     {% for colaborator in post.colaborators %}
     <li>
-      <strong>{{ colaborator.name }}</strong><br> 
+      <strong>{{ colaborator.name }}</strong><br>
 
       {% for link in colaborator.links %}
-      <a href="{{ link.url }}">{{ link.url-name }}</a>{% unless forloop.last %}, {% endunless %} 
+      <a href="{{ link.url }}">{{ link.url-name }}</a>{% unless forloop.last %}, {% endunless %}
       {% endfor %}
 
     </li>
