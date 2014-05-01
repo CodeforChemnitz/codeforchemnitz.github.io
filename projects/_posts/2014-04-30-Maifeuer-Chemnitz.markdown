@@ -3,11 +3,11 @@ layout: post
 imgname: maifeuer2014.png
 title: Maifeuer 2014 in Chemnitz
 
+website: http://codeforchemnitz.de/Maifeuer2014
+
 links:
 - url: https://github.com/CodeForChemnitz/Maifeuer2014
   name: Github Repository
-- url: http://codeforchemnitz.de/Maifeuer2014
-  name: Webseite
 
 colaborators:
 - name: Morris Jobke

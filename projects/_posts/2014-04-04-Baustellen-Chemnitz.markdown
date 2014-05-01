@@ -3,11 +3,11 @@ layout: post
 imgname: baustellen.png
 title: Karte Chemnitzer Baustellen
 
+website: http://codeforchemnitz.de/BaustellenChemnitz/
+
 links:
 - url: https://github.com/CodeForChemnitz/BaustellenChemnitz
   name: Github Repository
-- url: http://codeforchemnitz.de/BaustellenChemnitz/
-  name: Webseite
 
 colaborators:
 - name: Morris Jobke
@@ -16,6 +16,7 @@ colaborators:
     url-name: twitter
   - url: https://github.com/MorrisJobke
     url-name: github
+- name: Hans Peter
 
 
 ---
