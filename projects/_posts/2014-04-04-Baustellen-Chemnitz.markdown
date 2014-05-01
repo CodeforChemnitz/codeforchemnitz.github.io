@@ -16,7 +16,6 @@ colaborators:
     url-name: twitter
   - url: https://github.com/MorrisJobke
     url-name: github
-- name: Hans Peter
 
 
 ---
