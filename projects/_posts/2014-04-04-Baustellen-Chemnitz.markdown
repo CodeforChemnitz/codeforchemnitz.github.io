@@ -4,10 +4,10 @@ imgname: baustellen.png
 title: Karte Chemnitzer Baustellen
 
 links:
-- url: https://github.com/ChaosChemnitz/BaustellenChemnitz
+- url: https://github.com/CodeForChemnitz/BaustellenChemnitz
   name: Github Repository
-- url: http://morrisjobke.de/stuff/baustellen-chemnitz/
-  name: Erster Prototyp
+- url: http://codeforchemnitz.de/BaustellenChemnitz/
+  name: Webseite
 
 colaborators:
 - name: Morris Jobke

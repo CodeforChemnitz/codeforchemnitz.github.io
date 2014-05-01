@@ -4,7 +4,9 @@ imgname: maifeuer2014.png
 title: Maifeuer 2014 in Chemnitz
 
 links:
-- url: http://codeforchemnitz.de/projects/maifeuer2014
+- url: https://github.com/CodeForChemnitz/Maifeuer2014
+  name: Github Repository
+- url: http://codeforchemnitz.de/Maifeuer2014
   name: Webseite
 
 colaborators:
