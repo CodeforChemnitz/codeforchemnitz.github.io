@@ -11,7 +11,7 @@ Wir haben uns nun einmal hingesetzt und angeschaut, wo es noch Probleme mit den 
 
 ### Tippfehler in Rohdaten
 
-Wir haben mehrere Tippfehler in den Rohdaten gefunden. Ein beliebtes - welches einfach zu erkennen war ist ein Vertipper in den Wörter, die die Position der Baustelle beschreiben:
+Wir haben mehrere Tippfehler in den Rohdaten gefunden. Ein beliebtes Problem - welches einfach zu erkennen ist - ist ein Vertipper in den Wörtern, die die Position der Baustelle beschreiben:
 
 	Lage: zwischen Hübschmannstraße unf Kanzlerstraße
 
