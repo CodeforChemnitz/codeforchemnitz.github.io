@@ -27,7 +27,7 @@ title: Unsere Projekte
 			</div>
 
 			{% comment %} Every third project close row and open new {% endcomment %}
-			{% if 1 == loop_index | modulo:3 %}
+			{% if 2 == loop_index | modulo:3 %}
 				{% comment %} Unless it is the last iteration {% endcomment %}
 				{% if loop_index < project_count %}
 					</div>

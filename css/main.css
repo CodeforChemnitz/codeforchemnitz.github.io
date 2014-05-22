@@ -66,10 +66,8 @@ body {
 	background-color:#EDEDED;
 }
 
-@media screen and (max-width: 1000px) {
-	.member_wrapper, .project_wrapper {
-		margin-bottom:10px;
-	}
+.member_wrapper, .project_wrapper {
+	margin-bottom:15px;
 }
 
 .post img {
