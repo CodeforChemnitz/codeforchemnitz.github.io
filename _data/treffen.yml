@@ -1,4 +1,5 @@
-time: 19:00 Uhr - Open end
-day: Donnerstag
+# comment day to have a "unknown event date" message
+#day: Donnerstag
 day-nr: 26
 month: Juni 2014
+time: 19:00 Uhr - Open end
