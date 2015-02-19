@@ -1,6 +1,6 @@
 ---
 layout: post
-imgname: haltestellen.png
+imgname: haltestellen.jpg
 title:  "Haltestellen in Chemnitz & Umland"
 
 website: http://codeforchemnitz.de/Haltestellen/
@@ -20,6 +20,6 @@ colaborators:
 
 ---
 
-Die Karte Zeigt die von der [CVAG](http://cvag.de/) zur Verfügung gestellten [Haltestellendaten][]. Man sieht deutliche Abweichungen der Koordinaten zu den Punkten auf der OSM Karte.
+Die Karte zeigt die von der [CVAG](http://cvag.de/) zur Verfügung gestellten [Haltestellendaten][]. Man sieht deutliche Abweichungen der Koordinaten zu den Punkten auf der OSM Karte.
 
 [Haltestellendaten]: http://www.cvag.de/eza/mis/stations?minLat=0&maxLat=100&minLon=0&maxLon=100

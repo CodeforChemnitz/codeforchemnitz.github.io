@@ -1,6 +1,6 @@
 ---
 layout: post
-imgname: baustellen.png
+imgname: baustellen.jpg
 title: Karte Chemnitzer Baustellen
 
 website: http://codeforchemnitz.de/BaustellenChemnitz/

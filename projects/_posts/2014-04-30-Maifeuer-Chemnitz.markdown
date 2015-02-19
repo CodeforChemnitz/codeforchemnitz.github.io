@@ -1,6 +1,6 @@
 ---
 layout: post
-imgname: maifeuer2014.png
+imgname: maifeuer2014.jpg
 title: Maifeuer 2014 in Chemnitz
 
 website: http://codeforchemnitz.de/Maifeuer2014
