@@ -25,10 +25,10 @@ So ändern sich momentan Details von Pressemeldung zu Pressemeldung und macht ei
 
 Genau hier setzt die Überzeugungsarbeit an: Sinnvolle Tools, visuell gut und nützlich aufbereitet, soll Entscheidungsträger motivieren mehr strukturierte Daten bereitzustellen. Die Kommunikation mit Kommunalpolitikern setzt genau da an um Offene Daten voranzutreiben.
 
-<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop1.jpg" width="33%" alt="Workshop" title="Workshop">
-<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop2.jpg" width="33%" alt="Workshop" title="Workshop">
-<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop3.jpg" width="33%" alt="Workshop" title="Workshop">
-
+<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop1.jpg" width="30%" alt="Workshop" title="Workshop">
+<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop2.jpg" width="30%" alt="Workshop" title="Workshop">
+<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop3.jpg" width="30%" alt="Workshop" title="Workshop">
+<div style="clear:both"></div>
 
 ## Fazit
 
