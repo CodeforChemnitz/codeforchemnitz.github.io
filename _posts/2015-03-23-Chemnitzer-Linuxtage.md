@@ -29,7 +29,9 @@ Genau hier setzt die Überzeugungsarbeit an: Sinnvolle Tools, visuell gut und n�
 <img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop2.jpg" width="33%" alt="Workshop" title="Workshop">
 <img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop3.jpg" width="33%" alt="Workshop" title="Workshop">
 
+
 ## Fazit
+
 Die Linuxtage und den Workshop werten wir als guten Erfolg. Anhand zahlreicher Zwischendiskussionen konnten auch nicht-technische Themen beleuchtet und eruiert werden. 
 Dieses Feedback ermöglicht es uns letztlich, unsere Arbeit sinnvoll einzuschätzen und den weiteren Verlauf zu bestimmen. 
 Denn wir wollen Projekte realisieren die nützen, der Stadt und ihren Bewohnern.
