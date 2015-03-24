@@ -6,7 +6,7 @@ author:	Ronny Hartenstein, Tobias Gall
 categories: [news]
 ---
 
-<img style="float:left" src="/images/news/2015-03-21-clt2015-stand1.jpg" width="400" alt="Unser Stand" title="Unser Stand"> Auf den diesjährigen Chemnitzer Linux-Tagen haben wir die Möglichkeit genutzt unser Projekt einer breiten Öffentlichkeit zu präsentieren.
+<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-stand1.jpg" width="400" alt="Unser Stand" title="Unser Stand"> Auf den diesjährigen Chemnitzer Linux-Tagen haben wir die Möglichkeit genutzt unser Projekt einer breiten Öffentlichkeit zu präsentieren.
 An unserem Stand direkt neben [*Jugendhackt*](http://jugendhackt.de/), ebenfalls einem Projekt der Open Knowledge Foundation, haben wir unsere aktuellen Entwicklungen und Aktivitäten gezeigt und erklärt.
 Neben den programmiertechnischen Details, wie wir zum Beispiel an die Daten für unsere Apps kommen, gab es auch viel Interesse für die OpenData Bewegung im Allgemeinen. 
 Besuch hatten wir aus dem OK-Labs in [Leipzig](http://codefor.de/leipzig/) und [Wuppertal](https://opendatal.de/). 
@@ -25,9 +25,9 @@ So ändern sich momentan Details von Pressemeldung zu Pressemeldung und macht ei
 
 Genau hier setzt die Überzeugungsarbeit an: Sinnvolle Tools, visuell gut und nützlich aufbereitet, soll Entscheidungsträger motivieren mehr strukturierte Daten bereitzustellen. Die Kommunikation mit Kommunalpolitikern setzt genau da an um Offene Daten voranzutreiben.
 
-<img style="float:left" src="/images/news/2015-03-21-clt2015-workshop1.jpg" width="33%" alt="Workshop" title="Workshop">
-<img style="float:left" src="/images/news/2015-03-21-clt2015-workshop2.jpg" width="33%" alt="Workshop" title="Workshop">
-<img style="float:left" src="/images/news/2015-03-21-clt2015-workshop3.jpg" width="33%" alt="Workshop" title="Workshop">
+<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop1.jpg" width="33%" alt="Workshop" title="Workshop">
+<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop2.jpg" width="33%" alt="Workshop" title="Workshop">
+<img style="float:left;margin:5px" src="/images/news/2015-03-21-clt2015-workshop3.jpg" width="33%" alt="Workshop" title="Workshop">
 
 ## Fazit
 Die Linuxtage und den Workshop werten wir als guten Erfolg. Anhand zahlreicher Zwischendiskussionen konnten auch nicht-technische Themen beleuchtet und eruiert werden. 
