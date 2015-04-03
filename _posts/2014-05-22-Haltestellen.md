@@ -18,7 +18,7 @@ Die berüchtigte Haltestelle "xxx" (auch bekannt unter "Endhaltestelle Hutholz")
 
 ![xxx](/images/news/2014-05-22-xxx.jpg)
 
-Auf obigen Bild sieht man auch einen Rechtschreibfehler bei der Haltestellenbeschreibung in OSM. (Wir haben dies mitlerweile geändert)
+Auf obigen Bild sieht man auch einen Rechtschreibfehler bei der Haltestellenbeschreibung in OSM. (Wir haben dies mittlerweile geändert)
 
 ## Fazit
 
