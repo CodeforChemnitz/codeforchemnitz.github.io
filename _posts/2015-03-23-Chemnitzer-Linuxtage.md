@@ -10,7 +10,7 @@ categories: [news]
 An unserem Stand direkt neben [Jugend hackt](http://jugendhackt.de/), ebenfalls einem Projekt der Open Knowledge Foundation, haben wir unsere aktuellen Entwicklungen und Aktivitäten gezeigt und erklärt.
 Neben den programmiertechnischen Details, wie wir zum Beispiel an die Daten für unsere Apps kommen, gab es auch viel Interesse für die OpenData Bewegung im Allgemeinen. 
 Besuch hatten wir aus dem OK-Labs in [Leipzig](http://codefor.de/leipzig/) und [Wuppertal](https://opendatal.de/). 
-Die Presseverteter haben sich besonders für unsere [Baustellenkarte](http://codeforchemnitz.de/BaustellenChemnitz/) interessiert, allerdings ist die Anwendung noch nicht automatisiert, sodass sie ihnen zur Zeit leider noch wenig nützt.
+Die Pressevertreter haben sich besonders für unsere [Baustellenkarte](http://codeforchemnitz.de/BaustellenChemnitz/) interessiert, allerdings ist die Anwendung noch nicht automatisiert, sodass sie ihnen zur Zeit leider noch wenig nützt.
 Aus Thüringen und der Stadt Bielefeld wurde Interesse bekunden an einer gemeinsamen Informationsfreiheitssatzung zu arbeiten, da wir in dem Bereich erst vor Kurzem von unseren Kommunalpolitikern ins Boot geholt wurden, um sie bei der Ausarbeitung zu unterstützen.
 
 ## Workshop
@@ -31,6 +31,6 @@ Genau hier setzt die Überzeugungsarbeit an: Sinnvolle Tools, visuell gut und n�
 
 ## Fazit
 
-Die Linuxtage und den Workshop werten wir als guten Erfolg. Anhand zahlreicher Zwischendiskussionen konnten auch nicht-technische Themen beleuchtet und eruiert werden. 
+Die Chemnitzer Linux-Tage und den Workshop werten wir als guten Erfolg. Anhand zahlreicher Zwischendiskussionen konnten auch nicht-technische Themen beleuchtet und eruiert werden. 
 Dieses Feedback ermöglicht es uns letztlich, unsere Arbeit sinnvoll einzuschätzen und den weiteren Verlauf zu bestimmen. 
 Denn wir wollen Projekte realisieren die nützen, der Stadt und ihren Bewohnern.
