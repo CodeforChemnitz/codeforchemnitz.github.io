@@ -16,7 +16,12 @@ colaborators:
     url-name: twitter
   - url: https://github.com/MorrisJobke
     url-name: github
-
+- name: Ronny Hartenstein
+  links:
+  - url: https://twitter.com/rhflow_de
+    url-name: twitter
+  - url: https://github.com/ronnyhartenstein
+    url-name: github
 
 ---
 
