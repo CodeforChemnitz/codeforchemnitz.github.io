@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hund, Katze und Kaninchen"
-date:   2015-07-9 11:54:00 CET
+date:   2015-07-19 11:54:00 CET
 author:	symptog
 categories: [news]
 ---
