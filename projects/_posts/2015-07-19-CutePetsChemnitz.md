@@ -2,7 +2,7 @@
 layout: post
 imgname: cutepetschemnitz.png
 title:  "CutePetsChemnitz"
-author:	symtog
+author:	symptog
 
 website: https://github.com/CodeforChemnitz/CutePetsChemnitz
 
