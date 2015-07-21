@@ -2,6 +2,7 @@
 layout: post
 imgname: trinkwasser.jpg
 title:  "Trinkwasser in Chemnitz"
+author:	Ronny Hartenstein
 
 website: http://codeforchemnitz.de/trinkwasser/
 

@@ -2,6 +2,7 @@
 layout: post
 imgname: baustellen.jpg
 title: Karte Chemnitzer Baustellen
+author: Morris Jobke, Ronny Hartenstein
 
 website: http://codeforchemnitz.de/BaustellenChemnitz/
 

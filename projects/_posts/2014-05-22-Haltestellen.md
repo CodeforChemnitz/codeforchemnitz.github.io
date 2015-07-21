@@ -2,6 +2,7 @@
 layout: post
 imgname: haltestellen.jpg
 title:  "Haltestellen in Chemnitz & Umland"
+author:	Morris Jobke
 
 website: http://codeforchemnitz.de/Haltestellen/
 
