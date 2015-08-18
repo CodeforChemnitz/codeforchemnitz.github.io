@@ -12,6 +12,7 @@ from datetime import datetime, timedelta
 
 locale.setlocale(locale.LC_ALL, 'de_DE.utf8')
 
+os.chdir(os.path.dirname(os.path.realpath(__file__)))
 with open('.apikey', 'r') as f:
 	apiKey = f.readline()
 
@@ -60,5 +61,5 @@ stdout, stderr = p.communicate()
 if stdout and 'treffen.yml' in str(stdout):
 	subprocess.call(['git', 'add', 'treffen.yml'])
 	subprocess.call(['git', 'commit', '--quiet', '-m', '"event updated"'])
-	#subprocess.call(['git', 'push', '--quiet'])
+	subprocess.call(['git', 'push', '--quiet'])
 	print('I pushed that shit!')
