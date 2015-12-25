@@ -1,0 +1,23 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title type="text" xml:lang="en">{{ site.name }}</title>
+	<link type="application/atom+xml" href="{{ site.url }}/feed.atom" rel="self"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>{{ site.url }}/</id>
+	<rights>Copyright (c) 2015, Code for Chemnitz; all rights reserved.</rights>
+
+	{% for post in site.posts %}
+	<entry>
+		<title>{{ post.title | xml_escape }}</title>
+		<link href="{{ site.url }}{{ post.url }}"/>
+		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		<id>{{ site.url }}{{ post.id }}</id>
+		<content type="html">{{ post.content | xml_escape }}</content>
+		<author><name>{{ post.author }}</name></author>
+	</entry>
+	{% endfor %}
+</feed>

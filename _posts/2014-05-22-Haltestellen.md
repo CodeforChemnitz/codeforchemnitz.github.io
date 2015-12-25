@@ -6,7 +6,7 @@ author:	Morris Jobke
 categories: [news]
 ---
 
-Beim heutigen Treffen haben wir uns Angaben der [CVAG](http://cvag.de/) zu den Haltstellen beschäftigt. Über dies sind wir bei eine kleinen Suche im Internet [gestolpert](http://www.cvag.de/eza/mis/stations?minLat=0&maxLat=100&minLon=0&maxLon=100). Da wir noch nicht wissen unter welcher Lizenz diese stehen, wollten wir diese vorerst visualisieren und mit den Daten aus OpenStreetMap vergleichen.
+Beim heutigen Treffen haben wir uns Angaben der [CVAG](http://cvag.de/) zu den Haltestellen beschäftigt. Über dies sind wir bei eine kleinen Suche im Internet [gestolpert](http://www.cvag.de/eza/mis/stations?minLat=0&maxLat=100&minLon=0&maxLon=100). Da wir noch nicht wissen unter welcher Lizenz diese stehen, wollten wir diese vorerst visualisieren und mit den Daten aus OpenStreetMap vergleichen.
 
 Die Karte ist [hier](http://codeforchemnitz.de/Haltestellen) zu finden und nutzt die ÖPNV-Tiles. Ein paar kleine Kuriositäten wollen wir euch aber nicht vorenthalten:
 
@@ -18,7 +18,7 @@ Die berüchtigte Haltestelle "xxx" (auch bekannt unter "Endhaltestelle Hutholz")
 
 ![xxx](/images/news/2014-05-22-xxx.jpg)
 
-Auf obigen Bild sieht man auch einen Rechtschreibfehler bei der Haltestellenbeschreibung in OSM. (Wir haben dies mitlerweile geändert)
+Auf obigen Bild sieht man auch einen Rechtschreibfehler bei der Haltestellenbeschreibung in OSM. (Wir haben dies mittlerweile geändert)
 
 ## Fazit
 

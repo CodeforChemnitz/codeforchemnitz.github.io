@@ -3,6 +3,12 @@ codeforchemnitz.github.io
 
 Code for Chemnitz website
 
+Treffen aktualisieren
+---------------------
+
+* Meetup API-Key in `.apikey` ablegen
+* `python updateEvent.py` ausführen (läuft unter Python 2 und 3)
+  - führt `git commit` und `git push` aus
 
 Lizenz
 ------
