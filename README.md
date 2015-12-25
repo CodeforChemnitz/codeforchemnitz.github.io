@@ -10,6 +10,18 @@ Treffen aktualisieren
 * `python updateEvent.py` ausführen (läuft unter Python 2 und 3)
   - führt `git commit` und `git push` aus
 
+Jekyll lokal starten
+--------------------
+
+Benötigt Bundler: `sudo gem install bundle`
+
+Gems installieren und Jekyll starten
+```
+bundle install
+bundle exec jekyll serve
+```
+
+
 Lizenz
 ------
 
