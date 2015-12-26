@@ -1,7 +1,7 @@
 
 <div class="member_wrapper">
 	{% if member.username-github %}
-		{% capture image_url %}/images/avatar/{{ member.username-github }}.jpg{% endcapture %}
+		{% capture image_url %}https://avatars.githubusercontent.com/{{ member.username-github }}{% endcapture %}
 	{% else %}
 		{% capture image_url %}/images/avatar/contributor_placeholder.svg{% endcapture %}
 	{% endif %}
