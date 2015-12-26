@@ -13,13 +13,9 @@ Treffen aktualisieren
 Jekyll lokal starten
 --------------------
 
-Benötigt Bundler: `sudo gem install bundle`
-
-Gems installieren und Jekyll starten
-```
-bundle install
-bundle exec jekyll serve
-```
+* Benötigt Bundler. Installieren mit `sudo gem install bundle`
+* Gems installieren und Jekyll starten mit `bundle install`
+* Jekyll im Watch-Modus starten: `bundle exec jekyll serve`
 
 
 Lizenz
