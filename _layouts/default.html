@@ -43,7 +43,9 @@
 	<div class="container">
 	<hr/>
 	{% if page.plunder == null or page.plunder == true %}
+		<div class="container">
 		{% include plunder.html %}
+		</div>
 		<hr/>
 	{% endif %}
 	{% include footer.html %}
