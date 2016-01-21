@@ -1,6 +1,6 @@
 ---
 layout: post
-imgname: cutepetschemnitz.png
+imgname: cutepetschemnitz.jpg
 title:  "CutePetsChemnitz"
 author:	symptog
 
