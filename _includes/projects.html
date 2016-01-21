@@ -1,0 +1,32 @@
+{% assign project_count = 0 %}
+{% for project in site.categories.projects %}
+{% assign project_count=project_count | plus:1 %}
+{% endfor %}
+
+{% assign loop_index = 0 %}
+{% unless project_count == 0 %}
+<div class="row">
+{%endunless%}
+
+{% comment %} dirty but compensates for liquid comparison logic wiredness in if clauses later on (around loop_index < project_count) {% endcomment %}
+{% assign project_count=project_count | minus:1 %}
+
+{% for post in site.categories.projects %}
+
+	<div class="col-md-4" >
+		{% include project.html %}
+	</div>
+
+	{% comment %} Every third project close row and open new {% endcomment %}
+	{% if 2 == loop_index | modulo:3 %}
+		{% comment %} Unless it is the last iteration {% endcomment %}
+		{% if loop_index < project_count %}
+			</div>
+			<div class="row" >
+		{% endif %}
+	{% endif %}
+	{% if loop_index == project_count %}
+		</div>
+	{% endif %}
+	{% assign loop_index = loop_index | plus:1 %}
+{% endfor %}

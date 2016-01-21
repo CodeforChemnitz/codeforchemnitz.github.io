@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Details und REST-URIs zu den einzelnen Sensor-Teilen
 plunder: false
+meta: false
 ---
 
 ## SensorAPI

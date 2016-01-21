@@ -16,11 +16,11 @@ Code for Chemnitz website
 
 ## TODOs
 
-- Mermaid-Diagramm zum Laufen bringen
 - Projekt Sensor Bild
 - Sensor-Seite mit Thumb-Bild
 - Projekte auf die Startseite
 - per Schalter im Font-Matter keine Footer
+- Github-Issues zu Projekten anzeigen -> Codefor Münster macht das
 
 ## Lizenz
 

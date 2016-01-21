@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }} von {{ page.author }}</p>
-
+{% if page.meta == blank or page.meta == true %}
+  <p class="meta">{{ page.date | date_to_string }} von {{ page.author }}</p>
+{% endif %}
 <div class="post">
 {{ content }}
 </div>

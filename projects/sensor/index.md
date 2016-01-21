@@ -1,10 +1,12 @@
 ---
+layout: post
 title: Zusammenarbeit der Projekt-Teile
 libs:
 - mermaid
 - underscore
 thumb:
 plunder: false
+meta: false
 ---
 
 ## Worum es geht
