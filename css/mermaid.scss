@@ -1,0 +1,36 @@
+---
+---
+
+// blau: #155A96
+// grün: #15915E
+
+$pfeil: #155A96; //#008000;
+$subgraph: #bed2e2; //#cde498;
+$element: #15915E; //#008000;
+
+.node {
+  rect, circle, polygon {
+    fill: $element;
+    //stroke: $element;
+    stroke-width: 0px;
+  }
+  .label {
+    color: white;
+  }
+}
+
+.cluster {
+  rect {
+    fill: $subgraph !important;
+    //stroke: $subgraph !important;
+    stroke-width: 0px !important;
+  }
+  text {
+    font-size: 14px;
+  }
+}
+
+.edgePath .path {
+  stroke: $pfeil;
+  stroke-width: 1.5px;
+}

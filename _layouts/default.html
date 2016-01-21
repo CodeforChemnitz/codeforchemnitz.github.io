@@ -6,16 +6,32 @@
 		<title>{{ page.title }}</title>
 		<meta name="viewport" content="width=device-width">
 
-		<script src="/vendor/jquery/js/jquery-1.11.0.min.js"></script>
+		{% comment %}<script src="/vendor/jquery/js/jquery-1.11.0.min.js"></script>{% endcomment %}
 		<link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" href="/vendor/bootstrap-simplex/bootstrap.min.css">
-		<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+		{% comment %}<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>{% endcomment %}
 
-		<link rel="stylesheet" href="/css/main.css">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 		<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 		<link href='//fonts.googleapis.com/css?family=Source+Code+Pro' rel='stylesheet' type='text/css'>
 		<link rel="alternate" type="application/atom+xml" title="Atom feed" href="/feed.atom" />
+
+		{% for lib in page.libs %}
+			{% if lib == "underscore" %}
+				<script src="{{ site.baseurl }}/vendor/underscore/underscore-min.js"></script>
+			{% endif %}
+		  {% if lib == "chartjs" %}
+		    <script src="{{ site.baseurl }}/vendor/chartjs/Chart.min.js"></script>
+		  {% endif %}
+		  {% if lib == "mermaid" %}
+		    <script src="{{ site.baseurl }}/vendor/mermaid/mermaid.min.js"></script>
+				<script>window.onload = function() { mermaid.initialize({startOnLoad:true}); };</script>
+		    <link rel='stylesheet' id='mermaid-css'  href='{{ site.baseurl }}/css/mermaid.css' type='text/css' media='all' />
+		  {% endif %}
+		{% endfor %}
+
+		<link rel="stylesheet" href="/css/main.css">
+
 	</head>
 	<body>
 	{% include nav.html %}
