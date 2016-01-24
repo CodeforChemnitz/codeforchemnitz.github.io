@@ -44,7 +44,7 @@ graph TB
 - [Sensor-Provisionierung](http://github.com/codeforChemnitz/SensorProvisioning)
 - [Sensor-Karte](http://github.com/codeforChemnitz/SensorKarte)
 - [Sensor-Simulator](http://github.com/codeforChemnitz/SensorSimulator)  -> [codefor-sensors.meteor.com](http://codefor-sensors.meteor.com/)
-- [Sensor-Firmware](https://git.dinotools.org/poc/SensorNodeESP8266/tree/src)
+- [Sensor-Firmware für ESP8266](https://github.com/CodeforChemnitz/sensor_node-module-esp8266) / - [Sensor-Node Firmware](https://github.com/CodeforChemnitz/sensor_node)
 - *TODO* Sensor-Bauplan und Materialliste (Arduino)
 
 
