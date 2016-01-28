@@ -65,7 +65,7 @@ Diese speichert sie in seiner Datenbank.
 Von der Sensor-API können über deren REST-Schnittstelle diese Daten wieder abgefragt werden. Der Zugriff steht per Auth-Token allen offen.
 Eine Beispiel-Anwendung ist die [Sensor-Karte](https://github.com/CodeforChemnitz/SensorKarte). In dieser sind alle registrierten Sensoren und deren Standorte aufgeführt. Künftig sollen dort die jeweils erfassten Daten auch eingesehen werden können.
 
-Zum Beipiel könnten die Sensor-Daten auch mit [Graphana](http://grafana.org) aufbereitet werden.
+Zum Beipiel könnten die Sensor-Daten auch mit [Grafana](http://grafana.org) aufbereitet werden.
 
 ### [Weitere Details](details.html)
 
