@@ -16,6 +16,8 @@ os.chdir(os.path.dirname(os.path.realpath(__file__)))
 with open('.apikey', 'r') as f:
 	apiKey = f.readline()
 
+subprocess.call(['git', 'pull', '--quiet'])
+
 url = 'https://api.meetup.com/2/events?&sign=true&photo-host=public&group_urlname=ok-lab-chemnitz&status=upcoming&page=1&sign=true&key=' + apiKey
 
 result = urlopen(url, timeout=10)
