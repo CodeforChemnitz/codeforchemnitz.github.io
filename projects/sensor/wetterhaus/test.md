@@ -1,0 +1,74 @@
+---
+layout: post
+title: Wetterhaus
+meta: false
+---
+
+## Einkaufsliste
+
+Alle Dinge auf der Einkaufsliste sollten sich in einem Baumarkt finden lassen.
+Bei den Komponenten aus Holz handelt es sich immer um unbehandeltes und unlackiertes Material. 
+
+* 4x Lamellentüren aus Holz (ca. 50x50cm)
+* 2x Holzplatten für Boden und Deckel (ca. 50x50cm)
+* 1x Holzplatte für Dach (ca. 60x80cm)
+* 1x Holzleiste
+* 2x kleine Schanniere
+* 1x kleiner Riegel
+* 1x kleine Tube/Flashe Holzleim
+* 1x Grundierung gegen Pilze, Schimmel etc.
+* 1x Weiße Farbe
+* Schrauben
+
+## Aufbau
+
+### Schritt 1
+
+Lange Holzleiste in 4 gleichlange kleinere Leisten teilen.
+Die Länge einer Holzleiste entspricht dabei der Höher einer Lamellentür minus die Dicke der Boden- und Deckelplatte.
+Im Beispiel entspricht das ungefähr 46cm.
+
+Der Rest der langen Holzleiste wird später noch benötigt.
+
+### Schritt 2
+
+Die gerade abgesägten Leisten mit Holzleim und Schrauben in den Ecken der Bodenplatte befestigen.
+Anschließend die Deckelplatte auf gleiche Weise befestigen.
+
+### Schritt 3
+
+Für eine gute Belüftung durch Deckel- und Bodenplatte sorgen.
+Hierfür wurden für dieses Haus sehr viele Löcher durch die Platten gebohrt.
+Alternativ können auch größere Löcher mit einer Säge/Lochkreissäge ausgesägt werden.
+
+Es wurde sich jedoch für die kleinen Löcher entschieden, damit Vögel das Haus nicht als Brutgelegenheit nutzen.
+
+### Schritt 4
+
+Eine kurze Holzleiste in der Mitte der Bodenplatte befestigen.
+Sie sollte wieder verleimt und verschraubt werden.
+An ihr werden später die Sensoren und Module befestigt.
+
+### Schritt 5
+
+Drei der vier Lamellentüren als Wände befestigen.
+Sie sollten jeweils mit 4 Schrauben an den Ecken befestigt werden.
+
+### Schritt 6
+
+Alle Komponenten mit der Grundierung gegen Schimmel und Pilze streichen.
+Dabei unbedingt die Hinweise auf dem Etikett beachten.
+
+### Schritt 7
+
+Kleine Listen für die Dachbefestigung anbringen.
+
+### Schritt 8
+
+Alle Teile mit der weißen Farbe streichen.
+Es empfiehlt sich die Farbe nicht zu dick aufzutragen und dafür die Teile lieber 2 oder 3 mal zu streichen.
+
+### Schritt 9
+
+Tür mit den Schannieren an der Deckelplatte befestigen und anschließend das Dach mit Schrauben befestigen.
+
