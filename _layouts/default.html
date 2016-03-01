@@ -28,6 +28,12 @@
 				<script>window.onload = function() { mermaid.initialize({startOnLoad:true}); };</script>
 		    <link rel='stylesheet' id='mermaid-css'  href='{{ site.baseurl }}/css/mermaid.css' type='text/css' media='all' />
 		  {% endif %}
+		  {% if lib == "viewer" %}
+		    <script src="{{ site.baseurl }}/vendor/jquery/js/jquery-1.11.0.min.js"></script>
+		    <script src="{{ site.baseurl }}/vendor/viewer/viewer.min.js"></script>
+        <script>$( document ).ready(function() { $('.images').viewer(); });</script>
+		    <link rel="stylesheet" id="viewer-css"  href="{{ site.baseurl }}/vendor/viewer/viewer.min.css" type="text/css" media="all" />
+		  {% endif %}
 		{% endfor %}
 
 		<link rel="stylesheet" href="/css/main.css">
