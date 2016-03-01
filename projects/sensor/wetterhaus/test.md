@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Wetterhaus
+libs:
+- viewer
 meta: false
 ---
 
@@ -30,10 +32,36 @@ Im Beispiel entspricht das ungefähr 46cm.
 
 Der Rest der langen Holzleiste wird später noch benötigt.
 
+<div class="row images">   
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_001.jpg" alt="Einzelteile für Grundgerüst">
+      </div>
+   </div>
+</div>
+
 ### Schritt 2
 
 Die gerade abgesägten Leisten mit Holzleim und Schrauben in den Ecken der Bodenplatte befestigen.
 Anschließend die Deckelplatte auf gleiche Weise befestigen.
+
+<div class="row images">   
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_002.jpg" alt="Leisten an Bodenplatte befestigt">
+      </div>
+   </div>
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_003.jpg" alt="Leisten an Bodenplatte befestigt">
+      </div>
+   </div>
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_004.jpg" alt="Deckelplatte montiert">
+      </div>
+   </div>
+</div>
 
 ### Schritt 3
 
