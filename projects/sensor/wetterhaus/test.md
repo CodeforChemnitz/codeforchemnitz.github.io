@@ -22,6 +22,12 @@ Bei den Komponenten aus Holz handelt es sich immer um unbehandeltes und unlackie
 * 1x Weiße Farbe
 * Schrauben
 
+## Kosten und Zeitaufwand
+
+Alle in der Einkaufsliste aufgeführten Komponenten sollten in einem Baumarkt für zusammen ca. 70-80 Euro zu haben sein. (Stand: Februar 2016)
+
+Für den Bau müssen ungefähr 1-2 Wochen eingeplant werden, da die Grundierung und die Farbe etwas Zeit zum Trocknen brauchen und letztere mehrfach aufgetragen werden sollte.
+
 ## Aufbau
 
 ### Schritt 1
