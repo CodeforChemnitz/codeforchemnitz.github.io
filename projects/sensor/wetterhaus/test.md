@@ -32,7 +32,7 @@ Im Beispiel entspricht das ungefähr 46cm.
 
 Der Rest der langen Holzleiste wird später noch benötigt.
 
-<div class="row images">   
+<div class="row images">
    <div class="col-sm-4 col-md-3">
       <div class="thumbnail">
          <img src="image_001.jpg" alt="Einzelteile für Grundgerüst">
@@ -45,7 +45,7 @@ Der Rest der langen Holzleiste wird später noch benötigt.
 Die gerade abgesägten Leisten mit Holzleim und Schrauben in den Ecken der Bodenplatte befestigen.
 Anschließend die Deckelplatte auf gleiche Weise befestigen.
 
-<div class="row images">   
+<div class="row images">
    <div class="col-sm-4 col-md-3">
       <div class="thumbnail">
          <img src="image_002.jpg" alt="Leisten an Bodenplatte befestigt">
@@ -71,16 +71,56 @@ Alternativ können auch größere Löcher mit einer Säge/Lochkreissäge ausges�
 
 Es wurde sich jedoch für die kleinen Löcher entschieden, damit Vögel das Haus nicht als Brutgelegenheit nutzen.
 
+<div class="row images">
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_005.jpg" alt="Löcher angezeichnet und teilweise gebohrt">
+      </div>
+   </div>
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_006.jpg" alt="Boden- und Deckelplatte mit Lüftungslöchern">
+      </div>
+   </div>
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_007.jpg" alt="Boden- und Deckelplatte mit Lüftungslöchern">
+      </div>
+   </div>
+</div>
+
 ### Schritt 4
 
 Eine kurze Holzleiste in der Mitte der Bodenplatte befestigen.
 Sie sollte wieder verleimt und verschraubt werden.
 An ihr werden später die Sensoren und Module befestigt.
 
+
+<div class="row images">
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_008.jpg" alt="Befestigung für Sensor und Module">
+      </div>
+   </div>
+</div>
+
 ### Schritt 5
 
 Drei der vier Lamellentüren als Wände befestigen.
 Sie sollten jeweils mit 4 Schrauben an den Ecken befestigt werden.
+
+<div class="row images">
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_009.jpg" alt="Lamellentüren als Wand befestigt">
+      </div>
+   </div>
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_010.jpg" alt="Lamellentüren als Wand befestigt">
+      </div>
+   </div>
+</div>
 
 ### Schritt 6
 
@@ -91,12 +131,40 @@ Dabei unbedingt die Hinweise auf dem Etikett beachten.
 
 Kleine Listen für die Dachbefestigung anbringen.
 
+<div class="row images">
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_011.jpg" alt="Halterung für Dach">
+      </div>
+   </div>
+</div>
+
 ### Schritt 8
 
 Alle Teile mit der weißen Farbe streichen.
 Es empfiehlt sich die Farbe nicht zu dick aufzutragen und dafür die Teile lieber 2 oder 3 mal zu streichen.
 
+<div class="row images">
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_012.jpg" alt="Weiße Farbe gestrichen">
+      </div>
+   </div>
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_013.jpg" alt="Weiße Farbe gestrichen">
+      </div>
+   </div>
+</div>
+
 ### Schritt 9
 
 Tür mit den Schannieren an der Deckelplatte befestigen und anschließend das Dach mit Schrauben befestigen.
 
+<div class="row images">
+   <div class="col-sm-4 col-md-3">
+      <div class="thumbnail">
+         <img src="image_014.jpg" alt="Tür und Dach befestigt">
+      </div>
+   </div>
+</div>
