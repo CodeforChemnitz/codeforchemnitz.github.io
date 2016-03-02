@@ -1,5 +1,5 @@
 name: OK Lab Chemnitz
-markdown: redcarpet
-highlighter: pygments
+#markdown: redcarpet
+#highlighter: pygments
 permalink: none
 url: http://codeforchemnitz.de
