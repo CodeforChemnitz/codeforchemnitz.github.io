@@ -3,3 +3,29 @@ name: OK Lab Chemnitz
 #highlighter: pygments
 permalink: none
 url: http://codeforchemnitz.de
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+# additional Gems
+gems:
+  - jemoji
+  - gemoji
+  - rouge
+  #- jekyll-paginate
+  - jekyll-gist
+  - jekyll-sass-converter
+  - jekyll-mentions
+
+
+# https://github.com/jekyll/jekyll-mentions
+jekyll-mentions:
+  base_url: https://twitter.com
+
+# http://jekyllrb.com/docs/assets/
+sass:
+    style: compressed
