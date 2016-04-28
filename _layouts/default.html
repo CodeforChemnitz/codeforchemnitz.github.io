@@ -39,11 +39,13 @@
 		    <script src="{{ site.baseurl }}/vendor/packery/packery.pkgd.min.js"></script>
         <script>
           $( document ).ready(function() {
-            $('.grid').packery({
+            var $grid = $('.grid').packery({
               // options
               itemSelector: '.grid-item',
               percentPosition: true
             });
+            /* fix layout on page load */
+            setTimeout(function(){ $grid.packery('shiftLayout'); }, 500);
           });
         </script>
 		  {% endif %}
