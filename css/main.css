@@ -40,6 +40,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	margin: 0;
 }
 
+.button-frontpage {
+	border-radius: 0;
+}
+
+.button-frontpage.btn-primary {
+	background-color: #ce5a4e;
+	background-image: none;
+	border-color: #ce5a4e;
+}
+
 .highlight-red {
 	color:white;
 	font-family: 'Source Code Pro';
@@ -127,4 +137,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   content: '';
   display: block;
   clear: both;
+}
+
+.navbar-nav li {
+	cursor: pointer;
 }
