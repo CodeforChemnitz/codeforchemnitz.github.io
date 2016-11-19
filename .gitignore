@@ -2,3 +2,5 @@ _site
 .idea
 .apikey
 .DS_Store
+/.bundle
+/_bundle
