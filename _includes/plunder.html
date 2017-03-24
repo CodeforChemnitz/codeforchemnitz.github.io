@@ -23,6 +23,11 @@
                         Ort: <strong>{{site.data.treffen.location}}</strong>
                         </p>
                 {% endif %}
+				{% if site.data.treffen.more %}
+                    <p>
+                        {{site.data.treffen.more}}
+                    </p>
+                {% endif %}
 				{% else %}
 					<p>Aktuell gibt es keinen genauen Termin. Dieser wird noch bekannt gegeben.</p>
 				{% endif %}
