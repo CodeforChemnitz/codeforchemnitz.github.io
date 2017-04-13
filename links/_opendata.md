@@ -1,5 +1,3 @@
----
----
 
 # OpenData Portale
 
