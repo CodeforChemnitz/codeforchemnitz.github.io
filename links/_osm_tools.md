@@ -1,5 +1,5 @@
 
-# OpenStreemap Tools
+# OpenStreetmap Tools
 
 ## uMap
 Mit uMap kannst du in einer Minute Karten mit OpenStreetMap-Hintergrund erstellen und sie in deine eigene Internetseite einbinden.
