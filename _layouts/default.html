@@ -6,10 +6,9 @@
 		<title>{{ page.title }}</title>
 		<meta name="viewport" content="width=device-width">
 
-		{% comment %}<script src="/assets/jquery/js/jquery-1.11.0.min.js"></script>{% endcomment %}
-		<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
-		<link rel="stylesheet" href="/assets/bootstrap-simplex/bootstrap.min.css">
-		{% comment %}<script src="/assets/bootstrap/js/bootstrap.min.js"></script>{% endcomment %}
+		<script src="/assets/jquery/js/jquery-3.2.1.min.js"></script>
+		<link rel="stylesheet" href="/assets/bootstrap-simplex/bootstrap.min.css"-->
+		<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 
 		<link rel="icon" href="/favicon.ico" type="image/x-icon" />
 		<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
@@ -29,13 +28,11 @@
 		    <link rel='stylesheet' id='mermaid-css'  href='{{ site.baseurl }}/css/mermaid.css' type='text/css' media='all' />
 		  {% endif %}
 		  {% if lib == "viewer" %}
-		    <script src="{{ site.baseurl }}/assets/jquery/js/jquery-1.11.0.min.js"></script>
 		    <script src="{{ site.baseurl }}/assets/viewer/viewer.min.js"></script>
         <script>$( document ).ready(function() { $('.images').viewer(); });</script>
 		    <link rel="stylesheet" id="viewer-css"  href="{{ site.baseurl }}/assets/viewer/viewer.min.css" type="text/css" media="all" />
 		  {% endif %}
       {% if lib == "packery" %}
-        <script src="{{ site.baseurl }}/assets/jquery/js/jquery-1.11.0.min.js"></script>
 		    <script src="{{ site.baseurl }}/assets/packery/packery.pkgd.min.js"></script>
         <script>
           $( document ).ready(function() {
