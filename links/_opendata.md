@@ -23,3 +23,8 @@ Verfügbare Datenbestände des Freistaats Sachsen.
 Reliefkarte von Sachsen, Lärm- und Luftverschmutzung, Flurstücke und Gemarkungen, Hochwasserrisikokarte, Höheninformationen Sachsen
 
 [geoportal.sachsen.de](http://geoportal.sachsen.de)
+
+## Geoportal-Th
+GeoDaten-Portal des Freistaates Thüringen.
+
+[geoportal-th.de](http://www.geoportal-th.de)
