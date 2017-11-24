@@ -12,7 +12,7 @@ kramdown:
 
 
 # additional Gems
-gems:
+plugins:
   - jemoji
   - gemoji
   - rouge
