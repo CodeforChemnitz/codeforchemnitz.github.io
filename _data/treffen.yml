@@ -4,15 +4,15 @@
 #  location: Bar Lokomov, Augustusburger Straße 102, 09126 Chemnitz
 #  more: Wir treffen uns beim <a href="https://www.meetup.com/de-DE/Web-Developer-Chemnitz/">Web-Developer-Meetup</a>.
 
-- day: Mittwoch
-  day-nr: 24
-  month: Januar 2018
-  time: "19:00 – 22:00"
-  location: Bar Lokomov, Augustusburger Straße 102, 09126 Chemnitz
-  more: Wir treffen uns beim <a href="https://www.meetup.com/de-DE/Web-Developer-Chemnitz/">Web-Developer-Meetup</a>.
-
 - day: Donnerstag
-  day-nr: 1
+  day-nr: 15
   month: Februar 2018
   time: "19:00 – 23:00"
   location: Geschäftsstelle Piratenpartei, Hermannstraße 6, 09111 Chemnitz
+
+- day: Donnerstag
+  day-nr: 22
+  month: Februar 2018
+  time: "19:00 – 22:00"
+  location: Bar Lokomov, Augustusburger Straße 102, 09126 Chemnitz
+  more: Wir treffen uns beim <a href="https://www.meetup.com/de-DE/Web-Developer-Chemnitz/">Web-Developer-Meetup</a>.

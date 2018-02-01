@@ -11,23 +11,25 @@
 			</div>
 			<div class="col-md-6">
 				<h3>Nächste Treffen</h3>
-				<ul>
-				{% for event in site.data.treffen %}
-					<li>
-					{% if event.day %}
+				<ul class="list-group">
+					{% for event in site.data.treffen %}
+					<li class="list-group-item">
+						{% if event.day %}
 						<p>Termin: <strong>{{event.day}}, {{event.day-nr}}. {{event.month}}</strong></p>
 						<p>Uhrzeit: <strong>{{event.time}}</strong></p>
-					{% endif %}
-					{% if event.location %}
+						{% endif %}
+						{% if event.location %}
 						<p>Ort: <strong>{{event.location}}</strong></p>
-					{% endif %}
-					{% if event.more %}
-					<p><em>{{event.more}}</em></p>
-					{% endif %}
+						{% endif %}
+						{% if event.more %}
+						<p><em>{{event.more}}</em></p>
+						{% endif %}
 					</li>
-				{% else %}
-					<p>Aktuell gibt es keinen genauen Termin. Dieser wird noch bekannt gegeben.</p>
-				{% endfor %}
+					{% else %}
+					<li class="list-group-item">
+						Aktuell gibt es keinen genauen Termin. Dieser wird noch bekannt gegeben.
+					</li>
+					{% endfor %}
 				</ul>
 			</div>
 		</div>
