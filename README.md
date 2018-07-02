@@ -11,8 +11,8 @@ Code for Chemnitz website
 ## Jekyll lokal starten
 
 * Benötigt Bundler. Installieren mit `sudo gem install bundle`
-* Gems installieren und Jekyll starten mit `bundle install`
-* Jekyll im Watch-Modus starten: `bundle exec jekyll serve`
+* Gems installieren und Jekyll starten mit `bundle install --path .bundle --with development`
+* Jekyll im Watch-Modus starten: `bundle exec jekyll serve` oder `./watch_jekyll.sh`
 
 ## TODOs
 
