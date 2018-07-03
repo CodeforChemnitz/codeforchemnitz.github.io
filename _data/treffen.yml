@@ -1,5 +1,5 @@
 # comment day to have a "unknown event date" message
-#  location: Geschäftsstelle Piratenpartei, Hermannstraße 6, 09111 Chemnitz
+#  location: Geschäftsstelle Piratenpartei, Lohstraße 2, 09111 Chemnitz
 #  location: Chaostreff Chemnitz, Augustusburger Straße 102, 09126 Chemnitz
 #  location: Bar Lokomov, Augustusburger Straße 102, 09126 Chemnitz
 #  more: Wir treffen uns beim <a href="https://www.meetup.com/de-DE/Web-Developer-Chemnitz/">Web-Developer-Meetup</a>.
@@ -8,7 +8,7 @@
   day-nr: 05
   month: Juli 2018
   time: "19:00 – 23:00"
-  location: Geschäftsstelle Piratenpartei, Lohstraße 1, 09111 Chemnitz
+  location: Geschäftsstelle Piratenpartei, Lohstraße 2, 09111 Chemnitz
 
 #- day: Donnerstag
 #  day-nr: 22
